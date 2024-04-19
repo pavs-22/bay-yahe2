@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "426256480277",
+    "firebase_url": "https://bay-yahe-9f408-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bay-yahe-9f408",
+    "storage_bucket": "bay-yahe-9f408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426256480277:android:c7e13f1c8436b75c27761c",
+        "android_client_info": {
+          "package_name": "com.example.bay_yahe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426256480277-s4tjq6jipihs86f70acigbaq76f9e873.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bay_yahe_app",
+            "certificate_hash": "04763849729a354d44ddc9e47f75a2bab07c1381"
+          }
+        },
+        {
+          "client_id": "426256480277-i1l9rmnveven06mqn7cplb5uv4v3mhbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGxfj7kJ84evqltYvO4I_lbZi0bP9KqvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426256480277-i1l9rmnveven06mqn7cplb5uv4v3mhbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426256480277-b4ha6k9fbujrfjvm26uukdcl5hl4bh9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bayaheDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426256480277:android:55d9ca086759b49327761c",
+        "android_client_info": {
+          "package_name": "com.example.bayahe_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426256480277-i1l9rmnveven06mqn7cplb5uv4v3mhbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGxfj7kJ84evqltYvO4I_lbZi0bP9KqvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426256480277-i1l9rmnveven06mqn7cplb5uv4v3mhbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426256480277-b4ha6k9fbujrfjvm26uukdcl5hl4bh9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bayaheDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
